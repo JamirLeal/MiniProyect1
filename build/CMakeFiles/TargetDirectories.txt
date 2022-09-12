@@ -1,0 +1,5 @@
+/home/jamirl/Desktop/MiniProyect1/build/CMakeFiles/edit_cache.dir
+/home/jamirl/Desktop/MiniProyect1/build/CMakeFiles/package_source.dir
+/home/jamirl/Desktop/MiniProyect1/build/CMakeFiles/rebuild_cache.dir
+/home/jamirl/Desktop/MiniProyect1/build/CMakeFiles/package.dir
+/home/jamirl/Desktop/MiniProyect1/build/CMakeFiles/phonebook.dir
