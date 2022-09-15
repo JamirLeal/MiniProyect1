@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-x86_64-linux-gnu-g++-9"
+	BuildStamp="20220915-0403-Experimental"
+	Name="jamirl-Predator-PH315-53"
+	Generator="ctest-3.20.0"
+	CompilerName="/bin/x86_64-linux-gnu-g++-9"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="jamirl-Predator-PH315-53"
+	OSRelease="5.15.0-46-generic"
+	OSVersion="#49~20.04.1-Ubuntu SMP Thu Aug 4 19:15:44 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15830"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2600"
+	>
+	<Testing>
+		<StartDateTime>Sep 15 13:02 MDT</StartDateTime>
+		<StartTestTime>1663268543</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 15 13:02 MDT</EndDateTime>
+		<EndTestTime>1663268543</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
