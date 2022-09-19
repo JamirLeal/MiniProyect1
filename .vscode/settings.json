@@ -1,0 +1,6 @@
+{
+    "pros.showInstallOnStartup": false,
+    "files.associations": {
+        "typeinfo": "c"
+    }
+}
